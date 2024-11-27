@@ -28,4 +28,3 @@ def bien():
 
 # Tercero: El programa le dice al usuario que elija un o unos productos y la cantidad de dichos productos.
 
-bien()
